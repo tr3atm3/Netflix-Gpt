@@ -4,6 +4,7 @@
 
 - Firebase Authentication for Login/sign up
 - Redux is used to manage user account and to manage state.
+- Fetching movies data from tmdb
 
 # project workflow
 
